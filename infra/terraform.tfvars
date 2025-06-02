@@ -1,0 +1,5 @@
+resource_group_name   = "rg-fastapi-datalake"
+location              = "East US"
+storage_account_name  = "fastapidatalake01"
+file_system_name      = "raw-data"
+environment           = "dev"
